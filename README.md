@@ -1,16 +1,88 @@
-## Hi there 👋
+<!-- README.md for Donjay's GitHub Profile -->
 
-<!--
-**donjayspace/donjayspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0D9EFF&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Donjay.;Fullstack+Dev+%7C+PM+%7C+Tech+Blogger.;I+build+scalable+web+products.">
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Fullstack%20Engineer-TypeScript%20%7C%20Next.js%20%7C%20Node.js-blueviolet?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/Project%20Manager-Agile%20%7C%20Scrum-green?style=flat-square&logo=trello" />
+  <img src="https://img.shields.io/badge/Blogger-Tech%20%7C%20AI%20%7C%20Productivity-orange?style=flat-square&logo=dev.to" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+I’m **Donjay**, a solution-oriented fullstack engineer and project manager who transforms ideas into fully functional digital products.
+
+I blend strong technical expertise with strategic foresight to:
+- Build robust fullstack applications
+- Lead dev teams from concept to deployment
+- Architect scalable infrastructure with CI/CD pipelines
+- Automate workflows with different AI tools like **Bolt.new**, **Lovable.dev**, **V0 Ai**
+
+---
+
+### 🛠️ Tech Stack
+
+Frontend      →  React • Next.js • Tailwind CSS • TypeScript
+Backend       →  Node.js • Express • Prisma • REST & GraphQL
+Database      →  PostgreSQL • MongoDB • Supabase • Firebase
+DevOps        →  Vercel • Netlify • GitHub Actions • Docker
+Auth & CMS    →  NextAuth • Clerk • Strapi • Sanity
+PM Toolkit    →  Jira • Notion • Trello • Linear
+
+
+---
+\`\`\`txt
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Donjay10&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Donjay10&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donjay10&layout=compact&theme=radical&langs_count=8" />
+</p>
+\`\`\`
+---
+
+### 🚀 What I’m Currently Doing
+
+- ✨ Launching AI-driven MVPs via Bolt.new, Lovable, V0
+- 🧱 Building fullstack SaaS platforms with **Next.js + Supabase**
+- 📊 Writing tech blogs and project management insights
+- 🤝 Collaborating with founders and early-stage startups
+
+---
+
+### 📬 Let’s Work Together
+
+📩 Whether you're building an MVP, scaling your stack, or need a product-focused developer with PM skills — I’m open to:
+- Contract & freelance work
+- Startup tech leadership roles
+- Dev writing, documentation & tutorials
+
+📫 Reach out via:
+- [Twitter](https://twitter.com/donjayspace)
+- [LinkedIn](https://linkedin.com/in/donjayspace)
+- [Telegram](https://t.me/donjayspaceofficial)
+
+---
+
+### 💡 Motto
+
+> *“Don't just ship code. Ship outcomes.”*
+
+---
+
+### ✨ Bonus Flair (Optional)
+\`\`\`md
+<!-- GitHub Trophies (Optional Add-On) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Donjay10&theme=radical&no-frame=true&title=Commits,Stars,Repositories,Followers"/>
+</p>
+\`\`\`
