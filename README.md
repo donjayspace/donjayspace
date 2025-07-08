@@ -36,19 +36,7 @@ PM Toolkit    →  Jira • Notion • Trello • Linear
 
 
 ---
-\`\`\`txt
-### 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Donjay10&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Donjay10&theme=radical" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donjay10&layout=compact&theme=radical&langs_count=8" />
-</p>
-\`\`\`
----
 
 ### 🚀 What I’m Currently Doing
 
