@@ -2,8 +2,7 @@
 
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0D9EFF&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Donjay.;
-    A+Fullstack+Dev+%7C+PM+%7C+Tech+Blogger.;I+build+scalable+web+products.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0D9EFF&center=true&vCenter=true&width=490&lines=Hi%2C+I'm+Donjay.;A+Fullstack+Dev+%7C+Tech+%7C+Blogger.;I+build+scalable+web+products.">
 </h1>
 
 <p align="center">
@@ -16,13 +15,14 @@
 
 ### 👨‍💻 About Me
 
-I’m **Donjay**, a solution-oriented fullstack engineer and project manager who transforms ideas into fully functional digital products.
+I’m **Donjay**, a pragmatic and results-driven **Fullstack Developer** with a strong foundation in both frontend finesse and backend resilience. I specialize in building **scalable web applications**, automating development workflows, and integrating external services that elevate user and business performance.
 
 I blend strong technical expertise with strategic foresight to:
 - Build robust fullstack applications
 - Lead dev teams from concept to deployment
 - Architect scalable infrastructure with CI/CD pipelines
 - Automate workflows with different AI tools like **Bolt.new**, **Lovable.dev**, **V0 Ai**
+- I don't just build apps â€” I build **digital engines** that grow with your product.
 
 ---
 
