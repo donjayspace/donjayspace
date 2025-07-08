@@ -2,7 +2,8 @@
 
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0D9EFF&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Donjay.;Fullstack+Dev+%7C+PM+%7C+Tech+Blogger.;I+build+scalable+web+products.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0D9EFF&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Donjay.;
+    A+Fullstack+Dev+%7C+PM+%7C+Tech+Blogger.;I+build+scalable+web+products.">
 </h1>
 
 <p align="center">
