@@ -63,14 +63,7 @@ PM Toolkit    →  Jira • Notion • Trello • Linear
 
 ### 💡 Motto
 
-> *“Don't just ship code. Ship outcomes.”*
+> *“**Your Digital Partner.**”*
 
 ---
 
-### ✨ Bonus Flair (Optional)
-\`\`\`md
-<!-- GitHub Trophies (Optional Add-On) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Donjay10&theme=radical&no-frame=true&title=Commits,Stars,Repositories,Followers"/>
-</p>
-\`\`\`
